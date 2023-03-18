@@ -1,0 +1,50 @@
+#nav {
+    background-color: burlywood;
+    text-align: center;
+    
+   
+}
+
+#sinopsis1{
+    text-align: left;
+    display: inline;
+}
+
+#sinposis2{
+    text-align: left;
+    display: inline;
+}
+#kontak{
+    font-size: x-large;
+    background-color: burlywood;
+}
+#news{
+    background-color: burlywood;
+}
+[href]{
+    color: rgb(246, 253, 245);
+}
+
+#listproduk {
+    background-color: bisque;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+
+}
+
+ol{
+    display: inline-block;
+    text-align: left;
+}
+
+
+body{
+    background-color: rgb(168, 140, 103);
+    background-image: url(https://cdn-2.tstatic.net/kaltim/foto/bank/images/toko-buku-ilustrasi-balikpapan.jpg);
+}
+
+footer{
+    background-color: rgb(116, 103, 84);
+}
+
