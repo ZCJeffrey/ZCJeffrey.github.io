@@ -1,0 +1,70 @@
+#nav {
+    background-color: burlywood;
+    font-size: xx-large;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+#navi{
+    color: burlywood;
+}
+a:link{
+    color: aliceblue;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: aliceblue;
+}
+a:active{
+    color: aqua;
+}
+#sinopsis1{
+    text-align: left;
+    display: inline;
+}
+#sinposis2{
+    text-align: left;
+    display: inline;
+}
+#kontak{
+    font-size: x-large;
+    background-color: burlywood;
+}
+#news{
+    background-color: burlywood;
+   width: 80%;
+    border-style: groove;
+    margin-left: auto;
+    margin-right: auto;
+}
+[href]{
+    color: rgb(246, 253, 245);
+}
+#listproduk {
+    background-color: bisque;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+border-style: groove;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+    
+}
+body{
+    background-color: rgb(168, 140, 103);
+    background-image: url(https://cdn-2.tstatic.net/kaltim/foto/bank/images/toko-buku-ilustrasi-balikpapan.jpg);
+    
+}
+footer{
+    background-color: rgb(116, 103, 84);
+    border-style: groove;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
