@@ -1,0 +1,20 @@
+.nav {
+    background-color: burlywood;
+    text-align: center ;
+}
+
+[href]{
+    color: black;
+}
+
+
+img[src*="balikpapan"] {
+   display: block;
+   margin: auto;
+   width: auto;
+   color: beige;
+}
+
+body{
+    background-color: beige;
+}
